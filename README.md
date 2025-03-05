@@ -1,6 +1,6 @@
-### Hi there! 👋 I'm [Your Name]  
+### Hi there! 👋 I'm Aaron Roxas
 
-I'm a **Computer Science student** passionate about **software development, enterprise IT, and cloud computing**. I enjoy building innovative solutions that enhance user experience and efficiency.
+I'm a **Computer Science student** passionate about **software development**. I enjoy building innovative solutions that enhance user experience and efficiency.
 
 ---
 
