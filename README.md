@@ -6,8 +6,6 @@ I'm a **Computer Science student** passionate about **software development**. I 
 
 ### 🚀 About Me
 - 🎓 **CS Student** | Learning and growing in software development & IT infrastructure.
-- 📘 **SAP Business One Training** (Logistics & Financials).
-- 🔧 Passionate about **Enterprise IT, Cloud Computing, and Full-Stack Development**.
 - 💡 Currently working on **AI-powered chatbots and QR-based resource management systems**.
 
 ---
@@ -16,16 +14,12 @@ I'm a **Computer Science student** passionate about **software development**. I 
 - **Programming**: Python, JavaScript, Java, Python
 - **Web Development**: React.js, Node.js, Express.js
 - **Database Management**: MySQL, MongoDB
-- **Version Control**: Git, GitHub
 
 ---
 
 ### 📌 Featured Projects
 #### 🚀 [ResourceLink](https://github.com/yourusername/ResourceLink)
 QR-based resource management system for efficient tracking and retrieval of documents and assets.
-
-#### 🏍️ [Navie Motorcycle Shop and Accessories](https://navie.netlify.app/)
-An e-commerce platform for motorcycle parts and accessories, designed with a user-friendly interface.
 
 ---
 
