@@ -1,12 +1,12 @@
-### Hi there! 👋 I'm Aaron Roxas
+### Hi! I'm Aaron Roxas
 
 I'm a **Computer Science student** passionate about **software development**. I enjoy building innovative solutions that enhance user experience and efficiency.
 
 ---
 
-### 🚀 About Me
-- 🎓 **CS Student** | Learning and growing in software development & IT infrastructure.
-- 💡 Currently working on **AI-powered chatbots and QR-based resource management systems**.
+### About Me
+-  **CS Student** | Learning and growing in software development & QA testing.
+- 💡 Currently working on **AGAILA**.
 
 ---
 
@@ -18,16 +18,10 @@ I'm a **Computer Science student** passionate about **software development**. I 
 ---
 
 ### 📌 Featured Projects
-#### 🚀 [ResourceLink](https://github.com/yourusername/ResourceLink)
-QR-based resource management system for efficient tracking and retrieval of documents and assets.
-
+#### [AGAILA](https://github.com/AaronRoxas/GAIA)
+A real-time environmental hazard detection system for the Philippines using RSS Feeds. 
 ---
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AaronRoxas&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronRoxas&layout=compact&theme=radical&hide_border=true)
-
----
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-joshua-roxas-00595b15a/)
