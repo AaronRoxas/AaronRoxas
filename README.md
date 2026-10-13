@@ -11,7 +11,7 @@ I build practical applications that solve real-world problems, with a focus on m
 - Graduated with a **BS in Computer Science** from Lyceum of the Philippines University – Cavite.
 - Completed a **QA internship at NOAH Business Applications**, working with ERP workflows, integration testing, and defect documentation.
 - Develop full-stack applications with **React, Next.js, Node.js, Express, and databases**.
-- Interested in **Software Engineering, Full-Stack Development, and QA Automation** opportunities.
+- Interested in **Software Engineering, Full-Stack Development, and Cybersecurity** opportunities.
 
 ## Featured Projects
 
